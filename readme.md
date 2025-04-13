@@ -50,7 +50,7 @@ SRAGE_P1      -0.075572         0.075572   Self-reported age<br />
 
 
 ## Top 20 Features from Random Forest (by importance):
-         feature  importance
+feature  importance
 ACMDNUM    0.078621    # OF DOCTOR VISITS PAST YEAR <br />
 HGHTI_P    0.018698    HEIGHT: INCHES<br />
 AJ115_P1    0.016190    # OF DAYS MISS WORK DUE TO ILLNESS, INJURY, OR DISABILITY<br />
