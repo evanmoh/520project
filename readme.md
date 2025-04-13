@@ -30,7 +30,7 @@ Cleaned special codes, one hot encoded categorical variables, imputed missing va
 MAE, MSE, R^2
 
 ## Top 20 features by correlation with target:
-            correlation  abs_correlation<br />
+            correlation  abs_correlation
 INSMC          0.115998         0.115998.  Covered by Medicare Yes/No<br />
 AC116_P1      -0.113856         0.113856.  How long since last Marijuana/Hashish use<br />
 AI1            0.106906         0.106906.  Covered by Medicare Yes/No<br />
@@ -50,7 +50,7 @@ SRAGE_P1      -0.075572         0.075572   Self-reported age<br />
 
 
 ## Top 20 Features from Random Forest (by importance):
-         feature  importance<br />
+         feature  importance
 ACMDNUM    0.078621    # OF DOCTOR VISITS PAST YEAR <br />
 HGHTI_P    0.018698    HEIGHT: INCHES<br />
 AJ115_P1    0.016190    # OF DAYS MISS WORK DUE TO ILLNESS, INJURY, OR DISABILITY<br />
