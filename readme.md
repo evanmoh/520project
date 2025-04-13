@@ -9,6 +9,8 @@ Using UCLA California Health Interview Survey (CHIS) data, the goal is to build 
 This model aims to find out key demographic and healthcare related factors associated with frequent emergency room use and support potential interventions in public health planning.
 
 ## Data:
+https://drive.google.com/file/d/1mXFo4WdzvG_3oh0zeHnKgmnVMZmVKqNX/view?usp=drive_link
+
 https://healthpolicy.ucla.edu/our-work/california-health-interview-survey-chis/access-chis-data
 
 More information about One-Year Public Use Files (PUFs) 2023
