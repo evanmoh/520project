@@ -1,6 +1,6 @@
 # Duke AIPI520 Semester Project
-# Evan Moh
-# Video that explains the project: 
+## Evan Moh
+## Video that explains the project: 
 
 https://drive.google.com/file/d/1VaPbxRvD187XqYS3et5hS0Ilo9lm3jDO/view?usp=sharing
 
